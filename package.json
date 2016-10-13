@@ -1,0 +1,12 @@
+{
+  "name": "slack-transport",
+  "version": "1.0.0",
+  "description": "Slack transport for winston",
+  "main": "index.js",
+  "author": "Maxime Guedj",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "winston": "^2.2.0"
+  }
+}
